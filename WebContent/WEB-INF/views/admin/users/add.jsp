@@ -21,7 +21,7 @@
 	                                <div class="row">
 	                                    <div class="col-sm-6">
 	                                        <div class="form-group">
-	                                            <label for="name">Tên đăng nhập</label>
+	                                            <label for="name">Tên đăng nhập :</label>
 	                                            <input type="text" name="username" class="form-control">
 	                                            <form:errors path="user.username" cssStyle="color:red;display:block;font-weight:bold"></form:errors>
 	                                        </div>
